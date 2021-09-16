@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 4th year BTech CSE @ National Institute of Technology, Calicut
+- Worked as Summer Analyst Intern @ Goldman Sachs
 
 <!--
 **jessiyajoy/jessiyajoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
